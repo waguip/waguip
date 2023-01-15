@@ -45,7 +45,7 @@ Olá, meu nome é Wagner e sou um estudante de ciência da computação. Estou s
 ### Estatísticas do GitHub
 <div align="center">
   <img  width="55%" height="180em" src="https://github-readme-stats.vercel.app/api?username=waguip&show_icons=true&count_private=true&locale=pt-BR&theme=codeSTACKr"/>
-  <img  width="35%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waguip&layout=default&theme=codeSTACKr&custom_title=Linguagens mais usadas"/> 
+  <img  width="35%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waguip&layout=default&theme=codeSTACKr&custom_title=Linguagens%20mais%20usadas"/> 
 </div>
 
 <!---
