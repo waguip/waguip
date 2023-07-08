@@ -40,14 +40,6 @@ Olá, meu nome é Wagner e sou um estudante de ciência da computação. Estou s
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40">](https://nodejs.org "NodeJs")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org "Python")
 
-<hr>
-
-### Estatísticas do GitHub
-<div align="center">
-  <img  width="55%" height="180em" src="https://github-readme-stats.vercel.app/api?username=waguip&show_icons=true&count_private=true&locale=pt-BR&theme=codeSTACKr"/>
-  <img  width="35%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waguip&layout=default&theme=codeSTACKr&custom_title=Linguagens%20mais%20usadas"/> 
-</div>
-
 <!---
 waguip/waguip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
