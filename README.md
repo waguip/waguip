@@ -1,5 +1,3 @@
-![Wagner Pichler Junior](https://user-images.githubusercontent.com/51832038/154328358-1e113059-a2a8-48c2-94b0-becf4db3498d.gif) <br>
-
 <div align = "center">
   
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">](mailto:waguinho.pichler@gmail.com "waguinho.pichler@gmail.com")
@@ -11,18 +9,26 @@
 
 <hr>
 
-Olá, meu nome é Wagner e sou um estudante de ciência da computação. Estou sempre querendo aprender algo novo ou aprofundar o que já sei, meus interesses passam por modelagem 3D, pixel art, desenvolvimento de jogos e até inteligencia artificial. 
+Olá, meu nome é Wagner e sou bacharelado em Ciência da Computação. Estou sempre querendo aprender algo novo ou aprofundar o que já sei, meus interesses, além da programação, passam por modelagem 3D, pixel art, desenvolvimento de jogos e até inteligencia artificial. 
 
 <hr>
 
 ### Formação
-- 🎓 Estudante de Ciência da computação na Universidade Tecnológica Federal do Paraná
-- 💻 Técnico em informática pela ETEC de Registro
-- 🏠 Técnico em edificações pelo Instituto Federal de São Paulo (não pretendo seguir nessa área)
+- 🎓 Ciência da Computação na Universidade Tecnológica Federal do Paraná
+- 💻 Técnico em Informática na ETEC de Registro
+- 🏠 Técnico em Edificações no Instituto Federal de São Paulo
 
 <hr>
 
 ### Ferramentas e Tecnologias
+
+#### Frameworks & Bibliotecas
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40">](https://laravel.com/ "Laravel")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40">](https://fastapi.tiangolo.com/ "FastAPI")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40">](https://flutter.dev/ "Flutter")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40">](https://pt-br.legacy.reactjs.org/ "React")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40">](https://tailwindcss.com/ "Tailwind")
+
 
 #### Pacote Web
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">](https://www.w3schools.com/html/ "HTML5")
@@ -30,13 +36,12 @@ Olá, meu nome é Wagner e sou um estudante de ciência da computação. Estou s
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40">](https://www.php.net "PHP")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">](https://www.mysql.com/ "MySql")
+      
 
-#### Hobbies
+#### Hobbies & Interesses
 [<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40">](https://www.blender.org/ "Blender")
 [<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40">](https://unity.com/ "Unity")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40">](https://www.w3schools.com/cs/ "CSharp")
-
-#### Interesses
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40">](https://nodejs.org "NodeJs")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org "Python")
 
